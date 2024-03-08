@@ -1,7 +1,5 @@
 # About me
 
----
-
 - 🔭 I’m currently **open to work**, looking for *entry-level opportunities* into the Tech Industry.
 - 🌱 Working on creating a **portfolio to showcase my skills**.
 - 👯 Looking to collaborate on web apps, interactive landing pages, basically any Front-end work that needs to be done.
