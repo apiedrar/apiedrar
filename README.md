@@ -1,13 +1,10 @@
 # About me
 
-- 🔭 I’m currently **Solutions & Support Engineer @T1Pagos**, looking for *Front-end opportunities*.
-- 🌱 Working on learning as much as I can at my current job, studying **Mongo, SQL & Python**, and keep improving my [Portfolio Website](https://www.alejandropiedra.com/).
-- 👯 Looking to collaborate on web apps, interactive landing pages, basically any Front-end work that needs to be done.
-- 🤔 I’m looking for help with: Backend and getting my first job as a Web Developer.
-- 💬 Ask me about HTML, CSS, OOP, React, Node.js, API or anything that comes to mind. I'm studying daily! 
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/apiedrar/)!
-- 😄 Pronouns: He/him/his
-- ⚡ Fun fact Nº 1: I'm a professional audio engineer & music producer. One day tried coding out of curiosity, and turns out I enjoy it even more than audio engineering.
-- ⚡ Fun fact Nº 2: My current developer dream is to work at **Apple**.
+- 💻 Software Engineer with 1+ year of production fintech experience (Node.js, Python, React, TypeScript).
+- 💼 Most recently at T1Pagos, where I built automation processing 5M+ monthly transaction volume.
+- 🔍 Currently looking for Fullstack or Backend Engineering opportunities in Fintech and adjacent domains.
+- 🛠️ Stack: React, TypeScript, Node.js, Express, Python, MongoDB, SQL. 
+- ⚡ Fun fact: I made a career switch from professional audio engineering. Same signal-flow brain, different medium.
+- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/apiedrar/)
 
 ---
