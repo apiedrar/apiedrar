@@ -6,6 +6,6 @@ The repo you're most likely here for: [`alejandro-portfolio-website`](https://gi
 
 Before Software, I spent close to a decade working in professional Audio Engineering, managing recording projects for triple-A Video Games, Dubbing and Music Production. Same signal-flow instincts, different medium. The career switch was intentional, of course. Software Engineering rewards rigor at a level the music industry didn't.
 
-My interests outside work include (but are not limited to): sport cars and motorbikes, mountains, skydiving, calisthenics, and yoga. I also like to build and re-build things with my hands when I'm not at a keyboard.
+My interests outside work include (but are not limited to): sport cars and motorbikes, mountains, skydiving, calisthenics, and yoga. I also like to build stuff with my hands when I'm not at a keyboard, and play COD Mobile!
 
 Reach me: [LinkedIn](https://linkedin.com/in/apiedrar)
