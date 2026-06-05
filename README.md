@@ -1,5 +1,5 @@
 # About me
----
+
 I'm a Software Engineer based in Mexico City, focused on Full-stack work in fintech. Most recently I worked at T1Pagos, where I spent a year building automation processing roughly 5M+ monthly transactions: payment reconciliation pipelines, fraud-prevention POCs, and the operational tooling around them. Currently working as an independent contractor while preparing for the next opportunity.
 
 The repo you're most likely here for: [`alejandro-portfolio-website`](https://github.com/apiedrar/alejandro-portfolio-website) - production portfolio live at [alejandropiedra.com](https://www.alejandropiedra.com), built in Next.js + TypeScript featuring a compound interest calculator. An active branch extends it with a Node.js + Express + MongoDB e-commerce backend I'm using to showcase Spec Driven Development and Payment-flow Engineering.
